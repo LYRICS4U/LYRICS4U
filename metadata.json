@@ -1,0 +1,8 @@
+{
+  "name": "Lyrics4U",
+  "description": "Professional songwriting and lyric services in Urdu, Hindi, Punjabi, English, and Gojri. Connect with expert lyricists and request custom songs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
